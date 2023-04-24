@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\Bitar Auto Restarter.exe.config
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\Bitar Auto Restarter.exe
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\Bitar Auto Restarter.pdb
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\MetroFramework.dll
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar_Auto_Restarter.MainForm.resources
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar_Auto_Restarter.Properties.Resources.resources
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.csproj.CopyComplete
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.exe
+C:\Users\user\source\repos\Bitar Auto Restarter\Bitar Auto Restarter\obj\Debug\Bitar Auto Restarter.pdb
